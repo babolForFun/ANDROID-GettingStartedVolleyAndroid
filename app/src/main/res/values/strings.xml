@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RequestVolley</string>
+    <string name="bt_request">Send Request</string>
+</resources>
