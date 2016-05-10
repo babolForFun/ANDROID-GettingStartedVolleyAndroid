@@ -4,7 +4,6 @@ Android app with the base concept of Volley Android Request
 http://developer.android.com/training/volley/simple.html
 ```
 
-
 ### Version
 1.0.0
 
